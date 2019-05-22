@@ -22,7 +22,7 @@ class Bird {
   constructor(name) {
     this.name = name;
   }
-  
+
   set phrase(phrase) {
     this._phrase = phrase;
   }
